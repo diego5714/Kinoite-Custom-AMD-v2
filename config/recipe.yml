@@ -1,5 +1,5 @@
 # image will be published to ghcr.io/<user>/<name>
-name: kinoite-custom-amd
+name: kinoite-custom-amd-v2
 # description will be included in the image's metadata
 description: Imagen customizada de Fedora Kinoite para mis PCs con CPU + GPU AMD
 # the base image to build on top of (FROM) and the version tag to use
