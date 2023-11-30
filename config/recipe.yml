@@ -28,6 +28,7 @@ modules:
       - gnome-disk-utility
       - simple-scan
       - steam-devices
+      - goverlay
       - fastboot
       - gcc
       - VirtualBox
