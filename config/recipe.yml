@@ -29,6 +29,7 @@ modules:
       - gnome-disk-utility
       - simple-scan
       - steam-devices
+      - gamescope
       - goverlay
       - fastboot
       - gcc
